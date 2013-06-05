@@ -46,6 +46,7 @@
   <ItemGroup>
      <Compile Include="Assets\Script\Textchanger.cs" />
      <Compile Include="Assets\Script\Triggerlight.cs" />
+     <Compile Include="Assets\Script\Triggerparticle.cs" />
      <Compile Include="Assets\Script\Ufomove.cs" />
      <Compile Include="Assets\Script\guyrotate.cs" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />

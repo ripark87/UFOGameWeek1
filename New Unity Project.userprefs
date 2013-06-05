@@ -1,10 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Textchanger.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/TriggerText.cs">
     <Files>
-      <File FileName="Assets/Script/guyrotate.cs" Line="13" Column="1" />
-      <File FileName="Assets/Script/Ufomove.cs" Line="21" Column="34" />
-      <File FileName="Assets/Script/Textchanger.cs" Line="28" Column="20" />
+      <File FileName="Assets/Script/guyrotate.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Ufomove.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Textchanger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/TriggerText.cs" Line="17" Column="32" />
+      <File FileName="Assets/Script/Triggerlight.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
