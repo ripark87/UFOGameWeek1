@@ -44,6 +44,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Script\CapControl.cs" />
+     <Compile Include="Assets\Script\DiabloMovement.cs" />
+     <Compile Include="Assets\Script\Movemotor.cs" />
      <Compile Include="Assets\Script\Textchanger.cs" />
      <Compile Include="Assets\Script\Triggerlight.cs" />
      <Compile Include="Assets\Script\Triggerparticle.cs" />
